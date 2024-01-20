@@ -1,0 +1,82 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import make_blobs
+df = pd.read_csv('C:\\Users\\Suyash Pandey\\OneDrive\\Desktop\\python_progs\\boston_housing.csv')
+s = df['RM']
+t = df['MEDV']
+plt.scatter(s,t,color = 'blue',marker='o')
+plt.ylabel("MEDV")
+plt.xlabel("RM")
+plt.title(" Association between the predictor and the target ")
+df.head(10)
+X, Y = make_blobs(n_samples = 1000)
+X_train,X_test,Y_train,Y_test = train_test_split(X, Y, test_size = 0.33)
+print(X_train.shape, X_test.shape, Y_train.shape, Y_test.shape)
+X_train,X_test,Y_train,Y_test = train_test_split(X, Y, train_size = 0.67)
+print(X_train.shape, X_test.shape, Y_train.shape, Y_test.shape)
+mean_value = df['MEDV'].mean()
+plt.scatter(df['RM'],df['MEDV'],color = 'blue',marker = 'o')
+plt.axhline(y = mean_value,c = 'r')
+plt.annotate("Mean_value",xy=(7.5,mean_value+2))
+plt.xlabel("RM")
+plt.ylabel("MEDV")
+plt.title("Mean of RM and MEDV")
+S = df[['RM']]
+T = df[['MEDV']]
+model = LinearRegression()
+model.fit(S,T)
+print("Intercept", model.intercept_)
+print("Coefficient", model.coef_)
+MEDV_model0 = df['MEDV'].mean()
+MEDV_model1 = 10 + (12*df['RM'])
+MEDV_model2 = 6 + (18*df['RM'])
+df['m_model0'] = MEDV_model0
+df['m_model1'] = MEDV_model1
+df['m_model2'] = MEDV_model2
+fig, ax = plt.subplots()
+ax.scatter(x = 'RM', y = 'MEDV', data = df, color = 'blue', label = "MEDV predictor")
+ax.plot(df['RM'], df['m_model0'], color = "red", label = "model0")
+ax.plot(df['RM'], df['m_model1'], color = "green", label = "model1")
+ax.plot(df['RM'], df['m_model2'], color = "yellow", label = "model2")
+ax.set_xlabel("RM")
+ax.set_ylabel("MEDV")
+ax.set_title("Speculated model")
+ax.legend()
+plt.plot()
+model0_obs = pd.DataFrame({"RM":df['RM'], "MEDV":df['MEDV'], "Actual value of MEDV":df.m_model0, "ERROR": (df.m_model0-df.MEDV)})
+model0_obs
+print(sum(model0_obs['ERROR']))
+x = df.RM
+y = df.MEDV
+xiyi = x * y
+l = len(df)
+xmean = df.RM.mean()
+ymean = df.MEDV.mean()
+numerator = xiyi.sum() - l*xmean*ymean
+denominator = (x**2).sum() - l*(xmean**2)
+m = numerator / denominator
+print("m: ", m)
+c = ymean - m*xmean
+print("c: ", c)
+min_best_fit_model = c + m*(df.RM)
+df['min_best_fit_model'] = min_best_fit_model
+df[["RM", "MEDV", "min_best_fit_model"]]
+fi, a = plt.subplots()
+a.scatter(x = "RM", y = "MEDV",color = 'blue', data = df)
+a.plot(df[['RM']], df[['min_best_fit_model']], color = "red")
+a.set_ylabel("MEDV")
+a.set_xlabel("RM")
+a.set_title("LINE OF BEST FIT")
+plt.plot()
+
+
+# In[ ]:
