@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suyash pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suyash pandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monica-yadav-71b303289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monica-yadav-71b303289" height="30" width="40" /></a>
 <a href="https://kaggle.com/monicayadav2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="monicayadav2204" height="30" width="40" /></a>
 <a href="https://medium.com/@monicazzz2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@monicazzz2003" height="30" width="40" /></a>
