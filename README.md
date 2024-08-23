@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monica Yadav</h1>
-<h3 align="center">Data Science Enthisiast</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monicaay&label=Profile%20views&color=0e75b6&style=flat" alt="monicaay" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine learning, Data Science, Data Analytics, Programming(Java,Python),SQL**
 
-- 📫 How to reach me **monicayadav22april@gmail.com**
+- 📫 To reach me **monicayadav22april@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
