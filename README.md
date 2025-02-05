@@ -17,6 +17,7 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 ---------------------
 
 🎨✨ Beyond Code
+
 When I’m not coding, you’ll find me designing intuitive interfaces or getting lost in a good book. Whether it’s crafting elegant Graphic designs or exploring thought-provoking literature, I love blending creativity with logic.
 
 ---------------------
