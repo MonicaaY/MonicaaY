@@ -26,14 +26,14 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 - Data Tools: Power BI, Pandas, NumPy, Matplotlib, Seaborn
 
 - Others: MySQL, Google Colab, PyCharm, VS Code
+  
+------------------
 
-  🌱 I’m currently learning **R, Python, SQL, Statistics**
+👨‍💻 All of my projects are available at [https://porfoliomon.netlify.app/](https://porfoliomon.netlify.app/)
 
-  👨‍💻 All of my projects are available at [https://porfoliomon.netlify.app/](https://porfoliomon.netlify.app/)
+💬 Ask me about **Machine learning, Data Science, Data Analytics, Programming (Java,Python,SQL)**
 
-  💬 Ask me about **Machine learning, Data Science, Data Analytics, Programming (Java,Python,SQL)**
-
-  📫 To reach me **monicayadav22april@gmail.com**
+📫 To reach me **monicayadav22april@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
