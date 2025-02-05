@@ -2,9 +2,7 @@
 
 <h3 align="center">💡 AI & ML Enthusiast | 📊 Data Analyst | 🖥️ Tech Fanatic </h3>
 
---------------------
-
-About Me 🧑‍💻
+About Me 🌿
 
 I’m passionate about building AI-driven solutions that simplify decision-making and enhance user experiences. With a strong foundation in Machine Learning, Deep Learning, and Data Science, I enjoy solving complex problems, optimizing algorithms, and developing innovative applications.
 
