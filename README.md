@@ -27,7 +27,7 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 
 -----------------------
 
-🚀 Skills & Technologies:
+🔹 Skills & Technologies:
 
 - Languages: Python, Java, SQL
 
