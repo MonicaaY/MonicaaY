@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Monica Yadav</h1>
+<h1 align="center">_Hi_ 👋, I'm Monica Yadav</h1>
 
-<h3 align="center">💡 AI & ML Enthusiast | 📊 Data Analyst | 🖥️ Tech Fanatic </h3>
+<h3 align="center">💡 _AI & ML Enthusiast_ | 📊 _Data Analyst_ | 🖥️ _Tech Fanatic_ </h3>
 
 _About Me 🌿_
 
