@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Monica Yadav</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">💡 AI & ML Enthusiast | 📊 Data Analyst | 🖥️ Tech Fanatic </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monicaay&label=Profile%20views&color=0e75b6&style=flat" alt="monicaay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monicaay" alt="monicaay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+I’m passionate about building AI-driven solutions that simplify decision-making and enhance user experiences. With a strong foundation in Machine Learning, Deep Learning, and Data Science, I enjoy solving complex problems, optimizing algorithms, and developing innovative applications.
 
 - 🌱 I’m currently learning **R, Python, Tensorflow, Keras**
 
