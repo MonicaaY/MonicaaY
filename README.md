@@ -9,6 +9,8 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+---------------------
+
 🔹 Key Projects:
 
 🛍️ Virtual Personal Stylist: Built a CNN-powered recommendation system, increasing cross-sell opportunities by 30%.
@@ -16,6 +18,8 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 📊 Power BI Sales Forecasting Dashboard: Improved forecasting accuracy by 25% using advanced time-series analysis.
 
 📚 Book Recommendation Chatbot: Designed an NLP-driven chatbot with 95% accuracy in category matching.
+
+-----------------------
 
 🚀 Skills & Technologies:
 
@@ -34,6 +38,8 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 💬 Ask me about **Machine learning, Data Science, Data Analytics, Programming (Java,Python,SQL)**
 
 📫 To reach me **monicayadav22april@gmail.com**
+
+----------------------
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
