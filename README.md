@@ -40,7 +40,7 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 
 👨‍💻 All of my projects are available at [https://porfoliomon.netlify.app/](https://porfoliomon.netlify.app/)
 
-💬 Ask me about **Machine learning, Data Science, Data Analytics, Programming (Java,Python,SQL)**
+💬 Ask me about **Machine learning, Data Science, Data Analytics, Programming (Java,Python,SQL), Art, Graphic Designing, Music, Books**
 
 📫 To reach me **monicayadav22april@gmail.com**
 
