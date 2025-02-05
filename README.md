@@ -2,7 +2,7 @@
 
 <h3 align="center">💡 AI & ML Enthusiast | 📊 Data Analyst | 🖥️ Tech Fanatic </h3>
 
-About Me 🌿
+_About Me 🌿_
 
 I’m passionate about building AI-driven solutions that simplify decision-making and enhance user experiences. With a strong foundation in Machine Learning, Deep Learning, and Data Science, I enjoy solving complex problems, optimizing algorithms, and developing innovative applications.
 
@@ -16,13 +16,13 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 
 ---------------------
 
-🎨✨ Beyond Code
+_🎨✨ _Beyond Code__
 
 When I’m not coding, you’ll find me designing intuitive interfaces or getting lost in a good book. Whether it’s crafting elegant Graphic designs or exploring thought-provoking literature, I love blending creativity with logic.
 
 ---------------------
 
-🔹 Key Projects:
+_🔹 Key Projects:_
 
 🛍️ Virtual Personal Stylist: Built a CNN-powered recommendation system, increasing cross-sell opportunities by 30%.
 
@@ -32,7 +32,7 @@ When I’m not coding, you’ll find me designing intuitive interfaces or gettin
 
 -----------------------
 
-🔹 Skills & Technologies:
+_🔹 Skills & Technologies:_
 
 - Languages: Python, Java, SQL
 
