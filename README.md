@@ -10,14 +10,21 @@
 I’m passionate about building AI-driven solutions that simplify decision-making and enhance user experiences. With a strong foundation in Machine Learning, Deep Learning, and Data Science, I enjoy solving complex problems, optimizing algorithms, and developing innovative applications.
 
 🔹 Key Projects:
+
 🛍️ Virtual Personal Stylist: Built a CNN-powered recommendation system, increasing cross-sell opportunities by 30%.
+
 📊 Power BI Sales Forecasting Dashboard: Improved forecasting accuracy by 25% using advanced time-series analysis.
+
 📚 Book Recommendation Chatbot: Designed an NLP-driven chatbot with 95% accuracy in category matching.
 
 🚀 Skills & Technologies:
+
 🔹Languages: Python, Java, SQL
+
 🔹AI/ML: TensorFlow, Keras, Scikit-learn, NLP, Generative AI
+
 🔹Data Tools: Power BI, Pandas, NumPy, Matplotlib, Seaborn
+
 🔹Others: MySQL, Google Colab, PyCharm, VS Code
 
 - 🌱 I’m currently learning **R, Python, SQL, Statistics**
