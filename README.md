@@ -3,7 +3,7 @@
 
 --------------------
 
-About Me 
+About Me 🧑‍💻
 
 I’m passionate about building AI-driven solutions that simplify decision-making and enhance user experiences. With a strong foundation in Machine Learning, Deep Learning, and Data Science, I enjoy solving complex problems, optimizing algorithms, and developing innovative applications.
 
@@ -46,10 +46,6 @@ I’m passionate about building AI-driven solutions that simplify decision-makin
 📫 To reach me **monicayadav22april@gmail.com**
 
 ----------------------
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
