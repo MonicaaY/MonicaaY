@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monica Yadav</h1>
+
+------------------
+
 <h3 align="center">💡 AI & ML Enthusiast | 📊 Data Analyst | 🖥️ Tech Fanatic </h3>
 
 --------------------
